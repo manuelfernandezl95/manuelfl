@@ -6,7 +6,7 @@ cv:
   phone:
   sections:
     Summary:
-      - Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+      - bullet: Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
     Research interests:
       - bullet: Strongly correlated quantum materials
       - bullet: Interaction-driven topological transitions
@@ -39,6 +39,7 @@ cv:
         highlights:
           - 'Theoretical final project: "Bosonic string theory for the derivation of the graviton and compactification of 25+1 dimensions."'
           - 'Experimental final project: "Data analysis for the determination of the Z_0 boson mass using LHC data."'
+          - "High honors in Thermodynamic and Statistical Physics I and II, Quantum Mechanics II, Physical Electronics, Magnetism and Superconductivity"
     Experience:
       - company: Institute of Physics, National Yang Ming Chiao Tung University
         position: Postdoctoral Researcher, Lattice Field Theory Group
