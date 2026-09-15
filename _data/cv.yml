@@ -16,8 +16,8 @@ cv:
         location: Madrid, Spain
         highlights:
           - 'Thesis: ["Fractionalized topological phases in strongly correlated materials with spin-orbit coupling"](https://repositorio.uam.es/handle/10486/717886)'
-          - 'Supervisor: Prof. Jaime Merino'
-          - 'Defense: Oct 2024 — Cum laude'
+          - "Supervisor: Prof. Jaime Merino"
+          - "Defense: Oct 2024 — Cum laude"
       - institution: Autonomous University of Madrid (UAM)
         area: Condensed Matter Physics and Biological Systems
         degree: MSc
@@ -79,18 +79,18 @@ cv:
         position: Tensor networks and quantum computing for high-energy physics
         start_date: 2026
         end_date: present
-        location: 'PI: Prof. C.-J. David Lin, Lattice Field Theory Group, NYCU'
+        location: "PI: Prof. C.-J. David Lin, Lattice Field Theory Group, NYCU"
         highlights:
-          - 'Grant numbers (verified against Francis, Lin, Morris & Zhao, arXiv:2606.19221): 112-2112-M-A49-021-M03, 114-2123-M-A49-001-ASP, 114-2811-M-A49-516.'
+          - "Grant numbers (verified against Francis, Lin, Morris & Zhao, arXiv:2606.19221): 112-2112-M-A49-021-M03, 114-2123-M-A49-001-ASP, 114-2811-M-A49-516."
       - company: Ref. PID2022-139995NB-I00
         position: New concepts and methods for topological strongly correlated quantum matter
-        location: 'IP: Jorge Bravo Abad'
+        location: "IP: Jorge Bravo Abad"
         highlights:
           - Computed non-local Green's function in-gap zeros delineating a fractionalized protected state (spinon drumhead states).
           - Led a research line computing Green's function zeros in Kitaev materials such as alpha-RuCl3, opening a route to identify topological phases in correlated superconductors.
       - company: Ref. RTI2018-098452-B-I00
         position: New phenomena and applications of topological strongly correlated materials in and out of equilibrium
-        location: 'IP: Jaime Merino Troncoso (FPI PRE2019-087603)'
+        location: "IP: Jaime Merino Troncoso (FPI PRE2019-087603)"
         highlights:
           - Supervised a master's student on code adaptation for correlated nodal-line semimetals, providing the first theoretical realization of the observed pressure-induced Mott transition.
           - Developed a semi-analytical technique extended to finite temperature revealing that non-local correlations lead to spinon Fermi arcs, with predicted ARPES signatures on pyrochlore iridates.
@@ -98,7 +98,7 @@ cv:
           - Explored flat-band unconventional superconductivity from doping this spin liquid, characterizing localized Majorana edge modes and their potential for topological quantum computing.
       - company: Ref. MAT2015-66128-R
         position: New electronic and photonic materials based on topological strongly correlated systems
-        location: 'IP: Jaime Merino Troncoso'
+        location: "IP: Jaime Merino Troncoso"
         highlights:
           - Implemented Hartree-Fock calculations in a decorated honeycomb lattice relevant to certain MOFs, identifying topological semimetals.
           - Presented findings at national conferences and acted as corresponding author in the peer-review process.
@@ -121,18 +121,18 @@ cv:
       - bullet: Peer reviewer for Physical Review B, first as co-referee with supervisor, later as an independent referee.
       - bullet: Experience assessing reproducibility, figure clarity, methodological soundness and experimental relevance in theoretical manuscripts, with a focus on transparent availability of data and custom code.
     Presentations:
-      - bullet: '*From Quantum Anomalous Hall Phases to Topological Metals in Interacting Decorated Honeycomb Lattices* — Oral contribution, INC Young Researchers Meeting, Madrid (2019)'
-      - bullet: '*Magnetism and Topological Phases in an Interacting Decorated Honeycomb Lattice with Spin-Orbit Coupling* — Oral contribution, INC Young Researchers Meeting, Madrid (2021)'
-      - bullet: '*Topological Phases Induced by Interactions and Spin-Orbit Coupling in Decorated Honeycomb Lattices* — Oral contribution, APS March Meeting, online (2021)'
-      - bullet: '*Bad Topological Semimetals in Layered Honeycomb Compounds* — Oral contribution, APS March Meeting, Chicago, IL, USA (2022)'
-      - bullet: '*Bad Topological Semimetals in Layered Honeycomb Compounds* — Invited talk, School of Mathematics and Physics, University of Queensland, Australia (2022)'
-      - bullet: '*Emergence of Spinon Fermi Arcs in the Weyl-Mott Metal-Insulator Transition* — Oral contribution, INC Young Researchers Meeting, Madrid (2024)'
-      - bullet: '*Bad Weyl Semimetals and Spinon Fermi Arcs in a Model for Pyrochlore Iridates* — Oral contribution, IOP CMQM 2024, St. Andrews, Scotland (2024)'
+      - bullet: "*From Quantum Anomalous Hall Phases to Topological Metals in Interacting Decorated Honeycomb Lattices* — Oral contribution, INC Young Researchers Meeting, Madrid (2019)"
+      - bullet: "*Magnetism and Topological Phases in an Interacting Decorated Honeycomb Lattice with Spin-Orbit Coupling* — Oral contribution, INC Young Researchers Meeting, Madrid (2021)"
+      - bullet: "*Topological Phases Induced by Interactions and Spin-Orbit Coupling in Decorated Honeycomb Lattices* — Oral contribution, APS March Meeting, online (2021)"
+      - bullet: "*Bad Topological Semimetals in Layered Honeycomb Compounds* — Oral contribution, APS March Meeting, Chicago, IL, USA (2022)"
+      - bullet: "*Bad Topological Semimetals in Layered Honeycomb Compounds* — Invited talk, School of Mathematics and Physics, University of Queensland, Australia (2022)"
+      - bullet: "*Emergence of Spinon Fermi Arcs in the Weyl-Mott Metal-Insulator Transition* — Oral contribution, INC Young Researchers Meeting, Madrid (2024)"
+      - bullet: "*Bad Weyl Semimetals and Spinon Fermi Arcs in a Model for Pyrochlore Iridates* — Oral contribution, IOP CMQM 2024, St. Andrews, Scotland (2024)"
     Skills:
-      - bullet: '**Semianalytical / Numerical:** Parton mean-field theories, exact diagonalization, solid working knowledge of (cluster) DMFT and QMC methods, topological invariants calculation in the absence of Landau quasiparticles'
-      - bullet: '**Programming & Software:** LaTeX, Fortran, Matlab (high proficiency); Adobe Suite, Wolfram Mathematica (advanced); Python (beginner); Windows, macOS, Linux'
-      - bullet: '**Communication:** Manuscript evaluation, referee correspondence, figure/table preparation'
-      - bullet: '**Languages:** English (fluent), Spanish (native)'
+      - bullet: "**Semianalytical / Numerical:** Parton mean-field theories, exact diagonalization, solid working knowledge of (cluster) DMFT and QMC methods, topological invariants calculation in the absence of Landau quasiparticles"
+      - bullet: "**Programming & Software:** LaTeX, Fortran, Matlab (high proficiency); Adobe Suite, Wolfram Mathematica (advanced); Python (beginner); Windows, macOS, Linux"
+      - bullet: "**Communication:** Manuscript evaluation, referee correspondence, figure/table preparation"
+      - bullet: "**Languages:** English (fluent), Spanish (native)"
     Awards:
       - company: Autonomous University of Madrid (UAM)
         position: FPI Research Fellowship
