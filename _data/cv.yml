@@ -10,7 +10,7 @@ cv:
     Research Focus:
       - bullet: Strongly correlated quantum materials
       - bullet: Interaction-driven topological transitions
-      - bullet: Green function zeros
+      - bullet: Green function zeroes as an emergent tool to characteize topology in strongly correlated systems
     Education:
       - institution: Autonomous University of Madrid (UAM)
         area: Physics
@@ -81,23 +81,23 @@ cv:
           - Prepared departmental talks and presented results at a national conference.
       - company: "**Research Project** · Institute of Physics, NYCU (NSTC grant 112-2112-M-A49-021-MY3)"
         position: Tensor networks and quantum computing for high-energy physics
-        start_date: 2026
-        end_date: present
+        start_date: 
+        end_date: 
         location: "PI: Prof. C.-J. David Lin, Lattice Field Theory Group, NYCU"
         highlights:
           - Contributing to a project applying tensor-network and quantum-computing methods, developed for strongly correlated condensed matter systems, to problems in high-energy physics.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. PID2022-139995NB-I00)"
         position: New concepts and methods for topological strongly correlated quantum matter
-        start_date: 2023
-        end_date: 2026
+        start_date: 
+        end_date: 
         location: "IP: Jorge Bravo Abad"
         highlights:
           - Computed non-local Green's function in-gap zeros delineating a fractionalized protected state (spinon drumhead states).
           - Led a research line computing Green's function zeros in Kitaev materials such as alpha-RuCl3, opening a route to identify topological phases in correlated superconductors.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. RTI2018-098452-B-I00)"
         position: New phenomena and applications of topological strongly correlated materials in and out of equilibrium
-        start_date: 2019
-        end_date: 2021
+        start_date: 
+        end_date: 
         location: "IP: Jaime Merino Troncoso (FPI PRE2019-087603)"
         highlights:
           - Supervised a master's student on code adaptation for correlated nodal-line semimetals, providing the first theoretical realization of the observed pressure-induced Mott transition.
@@ -106,8 +106,8 @@ cv:
           - Explored flat-band unconventional superconductivity from doping this spin liquid, characterizing localized Majorana edge modes and their potential for topological quantum computing.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. MAT2015-66128-R)"
         position: New electronic and photonic materials based on topological strongly correlated systems
-        start_date: 2016
-        end_date: 2019
+        start_date: 
+        end_date: 
         location: "IP: Jaime Merino Troncoso"
         highlights:
           - Implemented Hartree-Fock calculations in a decorated honeycomb lattice relevant to certain MOFs, identifying topological semimetals.
