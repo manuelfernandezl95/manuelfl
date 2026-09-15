@@ -2,64 +2,57 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: An overview of my research projects, from completed work to ongoing lines of research.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
+<h3>1. Interacting Topological Phases and Quantum Magnetism in Organometallic Materials</h3>
+<p><em>Status: Completed</em></p>
+<p>
+Study of interacting topological phases and quantum magnetism arising in organometallic lattice systems, combining lattice-model theory with realistic material considerations.
+</p>
+<ul>
+  <li>M. F. López &amp; J. Merino, "From quantum anomalous Hall phases to topological metals in interacting decorated honeycomb lattices", <em>Phys. Rev. B</em> 100, 075154 (2019)</li>
+  <li>M. F. López &amp; J. Merino, "Magnetism and topological phases in an interacting decorated honeycomb lattice with spin–orbit coupling", <em>Phys. Rev. B</em> 102, 035157 (2020)</li>
+</ul>
 
-<!-- Display projects without categories -->
+<hr>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<h3>2. High-T<sub>c</sub> Topological Superconductivity by Doping Spin Liquids in Organometallic Materials</h3>
+<p><em>Status: Completed</em></p>
+<p>
+Investigation of unconventional superconductivity near flat bands in organic and organometallic materials, and of topological superconductivity emerging from doping a triplet quantum spin liquid in a flat-band system.
+</p>
+<ul>
+  <li>J. Merino, M. F. López &amp; B. J. Powell, "Unconventional superconductivity near a flat band in organic and organometallic materials", <em>Phys. Rev. B</em> 103, 094517 (2021)</li>
+  <li>M. F. López, B. J. Powell &amp; J. Merino, "Topological superconductivity from doping a triplet quantum spin liquid in a flat band system", <em>Phys. Rev. B</em> 106, 235129 (2022)</li>
+</ul>
 
-  <!-- Generate cards for each project -->
+<hr>
 
-{% if page.horizontal %}
+<h3>3. Fractionalized Topological Phases via Slave-Rotor Techniques</h3>
+<p><em>Status: Completed</em></p>
+<p>
+Use of slave-rotor techniques to explore fractionalization and topological semimetallic/insulating phases, including bad topological semimetals in layered honeycomb compounds and the emergence of spinon Fermi arcs in the Weyl-Mott metal-insulator transition.
+</p>
+<ul>
+  <li>M. F. López &amp; J. Merino, "Bad topological semimetals in layered honeycomb compounds", <em>Phys. Rev. B</em> 105, 115138 (2022)</li>
+  <li>M. F. López, I. García Elcano, J. Bravo Abad &amp; J. Merino, "Emergence of spinon Fermi arcs in the Weyl Mott metal insulator transition", <em>Phys. Rev. B</em> 109, 085137 (2024)</li>
+</ul>
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+<hr>
+
+<h3>4. Green's Function Zeroes as a Tool to Probe Topological Strongly Correlated Phases</h3>
+<p><em>Status: Ongoing</em></p>
+<p>
+Ongoing project developing Green's function zeroes, within the slave-rotor framework, as a diagnostic tool for identifying topological strongly correlated phases. A first collaborative result has already been published:
+</p>
+<ul>
+  <li>J. C. Luaces, M. F. López, J. Bravo Abad &amp; J. Merino, "Topological strongly correlated phases in orthorhombic diamond lattice compounds", <em>Phys. Rev. B</em> 111, 165133 (2025)</li>
+</ul>
+
 </div>
