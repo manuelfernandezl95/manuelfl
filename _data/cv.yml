@@ -2,11 +2,15 @@ cv:
   name: Manuel Fernández López
   headline: Postdoctoral Researcher, Lattice Field Theory Group
   location: Hsinchu, Taiwan
-  email: manuel.fernandezl1995@gmail.com
-  phone: +34 645 211 013
+  email: manuel.fernandezl@nycu.edu.tw | manuel.fernandezl@inv.uam.es
+  phone: 
   sections:
     Summary:
-      - bullet: Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+      - Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+    Research interests:
+      - bullet: Strongly correlated quantum materials
+      - bullet: Interaction-driven topological transitions
+      - bullet: Green function zeros
     Education:
       - institution: Autonomous University of Madrid (UAM)
         area: Physics
@@ -34,7 +38,7 @@ cv:
         location: Madrid, Spain
         highlights:
           - 'Theoretical final project: "Bosonic string theory for the derivation of the graviton and compactification of 25+1 dimensions."'
-          - 'Experimental final project: "Data analysis for the determination of the Z0 boson mass using LHC data."'
+          - 'Experimental final project: "Data analysis for the determination of the Z_0 boson mass using LHC data."'
     Experience:
       - company: Institute of Physics, National Yang Ming Chiao Tung University
         position: Postdoctoral Researcher, Lattice Field Theory Group
@@ -75,20 +79,19 @@ cv:
           - Adapted master's thesis results into a peer-reviewed publication and managed correspondence with editors and referees (Phys. Rev. B 100, 075154, 2019).
           - Prepared departmental talks and presented results at a national conference.
     Research Projects:
-      - company: NSTC special-project grant
+      - company: Institute of Physics, NYCU. Ref. NSTC project grant: 112-2112-M-A49-021-MY3
         position: Tensor networks and quantum computing for high-energy physics
         start_date: 2026
         end_date: present
         location: "PI: Prof. C.-J. David Lin, Lattice Field Theory Group, NYCU"
         highlights:
-          - "Grant numbers (verified against Francis, Lin, Morris & Zhao, arXiv:2606.19221): 112-2112-M-A49-021-M03, 114-2123-M-A49-001-ASP, 114-2811-M-A49-516."
-      - company: Ref. PID2022-139995NB-I00
+      - company: Department of theoretical condensed matter physics, UAM. Ref. PID2022-139995NB-I00
         position: New concepts and methods for topological strongly correlated quantum matter
         location: "IP: Jorge Bravo Abad"
         highlights:
           - Computed non-local Green's function in-gap zeros delineating a fractionalized protected state (spinon drumhead states).
           - Led a research line computing Green's function zeros in Kitaev materials such as alpha-RuCl3, opening a route to identify topological phases in correlated superconductors.
-      - company: Ref. RTI2018-098452-B-I00
+      - company: Department of theoretical condensed matter physics, UAM. Ref. RTI2018-098452-B-I00
         position: New phenomena and applications of topological strongly correlated materials in and out of equilibrium
         location: "IP: Jaime Merino Troncoso (FPI PRE2019-087603)"
         highlights:
@@ -96,7 +99,7 @@ cv:
           - Developed a semi-analytical technique extended to finite temperature revealing that non-local correlations lead to spinon Fermi arcs, with predicted ARPES signatures on pyrochlore iridates.
           - Investigated correlated topology in flat-band decorated honeycomb lattices motivated by MOFs; exact diagonalization revealed a flat-band quantum spin liquid consistent with experiments.
           - Explored flat-band unconventional superconductivity from doping this spin liquid, characterizing localized Majorana edge modes and their potential for topological quantum computing.
-      - company: Ref. MAT2015-66128-R
+      - company: Department of theoretical condensed matter physics, UAM. Ref. MAT2015-66128-R
         position: New electronic and photonic materials based on topological strongly correlated systems
         location: "IP: Jaime Merino Troncoso"
         highlights:
