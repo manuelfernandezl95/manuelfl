@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/rendercv/rendercv_output/Manuel_Fernández_López_CV.pdf
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Condensed matter theorist working on strongly correlated quantum matter, topology, and superconductivity, with an interest in novel platforms for quantum computing.
 toc:
   sidebar: left
 ---
