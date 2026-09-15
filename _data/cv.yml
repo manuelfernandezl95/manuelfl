@@ -6,7 +6,7 @@ cv:
   phone: 
   sections:
     Summary:
-      - Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+      - bullet: Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
     Research interests:
       - bullet: Strongly correlated quantum materials
       - bullet: Interaction-driven topological transitions
