@@ -6,11 +6,11 @@ cv:
   phone:
   sections:
     Profile:
-      - bullet: Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+      - bullet: Condensed matter theorist specializing in topologically ordered strongly correlated systems and their applications to quantum information science.
     Research Focus:
       - bullet: Strongly correlated quantum materials
       - bullet: Interaction-driven topological transitions
-      - bullet: Green function zeros
+      - bullet: Green function zeroes as an emergent tool to characterize topological strongly correlated systems
     Education:
       - institution: Autonomous University of Madrid (UAM)
         area: Physics
@@ -56,11 +56,10 @@ cv:
         end_date: 2026-09
         location: Madrid, Spain
         highlights:
-          - Developed theoretical approaches to compute Green's function zeros in topological Mott insulators; application to the Kitaev-Hubbard model (preprint in final stage).
+          - Developed theoretical approaches to compute Green function zeroes in topological Mott insulators; application to the Kitaev-Hubbard model (preprint in final stage).
           - Co-supervised a PhD project on unconventional superconductivity in nickelate heterostructures using semi-analytical and numerical many-body techniques.
           - Proposed novel topological strongly correlated systems to apply AI-driven methodologies developed within the group.
-          - Prepared a referee report for Physical Review Letters; regularly handled editorial/referee correspondence as corresponding/co-author.
-          - Acted as corresponding author on the first publication of a PhD student, structuring the manuscript and overseeing the full reviewer-editor correspondence.
+          - Acted as corresponding author on the first publication of a PhD student, helping to the structuring the manuscript and leading the full reviewer-editor correspondence.
       - company: Autonomous University of Madrid (UAM)
         position: Researcher Formation Fellow (FPI)
         start_date: 2019-09
@@ -68,8 +67,8 @@ cv:
         location: Madrid, Spain
         highlights:
           - Implemented a finite-T slave-rotor mean-field framework for topological Mott transitions; benchmarked local limits against DMFT.
-          - Identified flat-band topological superconductivity and localized Majorana edge modes in metal-organic frameworks (Phys. Rev. B 106, 235129, 2022).
-          - Performed slab Green's-function calculations revealing spinon Fermi arcs, a novel type of topological surface state (Phys. Rev. B 109, 085137, 2024).
+          - Identified flat-band topological superconductivity and localized Majorana edge modes in metal-organic frameworks (MOFs) (Phys. Rev. B 106, 235129, 2022).
+          - Performed slab single-particle Green function calculations revealing spinon Fermi arcs, a novel type of topological surface state (Phys. Rev. B 109, 085137, 2024).
           - Derived effective Hubbard models from first-principles DFT band structures for strongly correlated-material modeling (Phys. Rev. B 111, 165133, 2025).
       - company: Autonomous University of Madrid (UAM)
         position: Scientific Technician, National Research Project
@@ -77,7 +76,7 @@ cv:
         end_date: 2019-08
         location: Madrid, Spain
         highlights:
-          - Adapted master's thesis results into a peer-reviewed publication and managed correspondence with editors and referees (Phys. Rev. B 100, 075154, 2019).
+          - Adapted master thesis results into a peer-reviewed publication and managed correspondence with editors and referees (Phys. Rev. B 100, 075154, 2019).
           - Prepared departmental talks and presented results at a national conference.
       - company: "**Research Project** · Institute of Physics, NYCU (NSTC grant 112-2112-M-A49-021-MY3)"
         position: Tensor networks and quantum computing for high-energy physics
@@ -118,8 +117,8 @@ cv:
         end_date: present
         location: Madrid, Spain
         highlights:
-          - Mentoring on topological strongly correlated electron models and Green's function zeros analysis, resulting in a joint publication.
-          - As corresponding author on the student's first paper, guided the full publication pipeline (submission, revision, peer-review dialogue) while enforcing good practices in code/documentation and reproducible workflows.
+          - Mentoring on topological strongly correlated electron models and Green function zeroes analysis, resulting in a joint publication.
+          - As corresponding author on the student first paper, guided the full publication pipeline (submission, revision, peer-review dialogue) while enforcing good practices in code/documentation and reproducible workflows.
       - company: "**Teaching** · Autonomous University of Madrid (UAM)"
         position: Lecturer & Lab Supervisor, Physics Laboratory course
         start_date: 2021
