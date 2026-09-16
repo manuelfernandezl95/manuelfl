@@ -5,12 +5,12 @@ cv:
   email: manuel.fernandezl@nycu.edu.tw
   phone:
   sections:
-    Summary:
-      - Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
+    Profile:
+      - bullet: Condensed matter theorist specializing in topologically ordered, strongly correlated systems and their applications to quantum information science.
     Research Focus:
       - bullet: Strongly correlated quantum materials
       - bullet: Interaction-driven topological transitions
-      - bullet: Green function zeroes as an emergent tool to characteize topology in strongly correlated systems
+      - bullet: Green function zeros
     Education:
       - institution: Autonomous University of Madrid (UAM)
         area: Physics
@@ -81,23 +81,23 @@ cv:
           - Prepared departmental talks and presented results at a national conference.
       - company: "**Research Project** · Institute of Physics, NYCU (NSTC grant 112-2112-M-A49-021-MY3)"
         position: Tensor networks and quantum computing for high-energy physics
-        start_date: 
-        end_date: 
+        start_date: 2026
+        end_date: present
         location: "PI: Prof. C.-J. David Lin, Lattice Field Theory Group, NYCU"
         highlights:
           - Contributing to a project applying tensor-network and quantum-computing methods, developed for strongly correlated condensed matter systems, to problems in high-energy physics.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. PID2022-139995NB-I00)"
         position: New concepts and methods for topological strongly correlated quantum matter
-        start_date: 
-        end_date: 
+        start_date: 2023
+        end_date: 2026
         location: "IP: Jorge Bravo Abad"
         highlights:
           - Computed non-local Green's function in-gap zeros delineating a fractionalized protected state (spinon drumhead states).
           - Led a research line computing Green's function zeros in Kitaev materials such as alpha-RuCl3, opening a route to identify topological phases in correlated superconductors.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. RTI2018-098452-B-I00)"
         position: New phenomena and applications of topological strongly correlated materials in and out of equilibrium
-        start_date: 
-        end_date: 
+        start_date: 2019
+        end_date: 2021
         location: "IP: Jaime Merino Troncoso (FPI PRE2019-087603)"
         highlights:
           - Supervised a master's student on code adaptation for correlated nodal-line semimetals, providing the first theoretical realization of the observed pressure-induced Mott transition.
@@ -106,8 +106,8 @@ cv:
           - Explored flat-band unconventional superconductivity from doping this spin liquid, characterizing localized Majorana edge modes and their potential for topological quantum computing.
       - company: "**Research Project** · Dept. of Theoretical Condensed Matter Physics, UAM (Ref. MAT2015-66128-R)"
         position: New electronic and photonic materials based on topological strongly correlated systems
-        start_date: 
-        end_date: 
+        start_date: 2016
+        end_date: 2019
         location: "IP: Jaime Merino Troncoso"
         highlights:
           - Implemented Hartree-Fock calculations in a decorated honeycomb lattice relevant to certain MOFs, identifying topological semimetals.
@@ -140,14 +140,10 @@ cv:
       - bullet: "*Bad Topological Semimetals in Layered Honeycomb Compounds* — Invited talk, School of Mathematics and Physics, University of Queensland, Australia (2022)"
       - bullet: "*Emergence of Spinon Fermi Arcs in the Weyl-Mott Metal-Insulator Transition* — Oral contribution, INC Young Researchers Meeting, Madrid (2024)"
       - bullet: "*Bad Weyl Semimetals and Spinon Fermi Arcs in a Model for Pyrochlore Iridates* — Oral contribution, IOP CMQM 2024, St. Andrews, Scotland (2024)"
-    Skills:
-      - label: "Semianalytical / Numerical"
-        details: "Parton mean-field theories, exact diagonalization, solid working knowledge of (cluster) DMFT and QMC methods, topological invariants calculation in the absence of Landau quasiparticles"
-      - label: "Programming & Software"
-        details: "LaTeX, Fortran, Matlab (high proficiency); Adobe Suite, Wolfram Mathematica (advanced); Python (beginner); Windows, macOS, Linux"
-      - label: "Communication"
-        details: "Manuscript evaluation, referee correspondence, figure/table preparation"
-      - label: "Languages"
-        details: "English (fluent), Spanish (native)"
-    Awards:
-      - bullet: "FPI Research Fellowship, Autonomous University of Madrid (UAM) (2019–2024)"
+    Technical Skills:
+      - bullet: "**Semianalytical / Numerical:** Parton mean-field theories, exact diagonalization, solid working knowledge of (cluster) DMFT and QMC methods, topological invariants calculation in the absence of Landau quasiparticles"
+      - bullet: "**Programming & Software:** LaTeX, Fortran, Matlab (high proficiency); Adobe Suite, Wolfram Mathematica (advanced); Python (beginner); Windows, macOS, Linux"
+      - bullet: "**Communication:** Manuscript evaluation, referee correspondence, figure/table preparation"
+      - bullet: "**Languages:** English (fluent), Spanish (native)"
+    Honors & Fellowships:
+      - bullet: "**FPI Research Fellowship**, Autonomous University of Madrid (UAM) (2019–2024)"
